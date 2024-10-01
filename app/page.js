@@ -7,6 +7,7 @@ export default function Home() {
       <ul>
         <li>
           <Link href="./week-2/" className="underline text-violet-600 hover:text-violet-400">Week 2- Student Info</Link>
+          <Link href="./week-3/" className="underline text-violet-600 hover:text-violet-400">Week 2- Student Info</Link>
 
         </li>
       </ul>
