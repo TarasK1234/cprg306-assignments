@@ -10,6 +10,7 @@ export default function Home() {
           <Link href="./week-3/" className="underline text-violet-600 hover:text-violet-400">Week 3- Student Info</Link>
           <Link href="./week-4/" className="underline text-violet-600 hover:text-violet-400">Week 4- Basic Interactivity</Link>
           <Link href="./week-5/" className="underline text-violet-600 hover:text-violet-400">Week 5- Interactivity with forms</Link>
+          <Link href="./week-6/" className="underline text-violet-600 hover:text-violet-400">Week 6- Handling Lists</Link>
 
         </li>
       </ul>
